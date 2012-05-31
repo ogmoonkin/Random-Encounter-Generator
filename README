@@ -4,78 +4,23 @@ Reason for Random Encounter Generator's existance.
 
 Response to the four tasks assigned as part of my application at Zappos.
 
-1.Create a basic 1-5 page zombie survival website. This site should utilize modern Responsive Web Design concepts to 
-  scale between desktop & mobile viewing.
--I know much more about zombies and guidelines forsurviving a number of different type of zombie apocolyps 
-  encounters than I would like to publicly admit. This asside I have no idea how to set up, create, or run a website.
-  Something I'd like to change.
+1.Create a basic 1-5 page zombie survival website. This site should utilize modern Responsive Web Design concepts to scale between desktop & mobile viewing.
+-I know much more about zombies and guidelines forsurviving a number of different type of zombie apocolyps encounters than I would like to publicly admit. This asside I have no idea how to set up, create, or run a website. Something I'd like to change.
 
-2.Create a program that sorts a list of ninja related book titles alphabetically. Once sorted, it should output them as 
-  if they were sitting on a bookshelf (e.g. the titles are written downwards besides eachother). BONUS: Write the 
-  alphabetical sorting algorithm yourself.
+2.Create a program that sorts a list of ninja related book titles alphabetically. Once sorted, it should output them as if they were sitting on a bookshelf (e.g. the titles are written downwards besides eachother). BONUS: Write the alphabetical sorting algorithm yourself.
 -See answer to question one but replace extensive knowlege with fondness and that summarizes my programing ability.
 
-3.You have just been asked to create a zoo which showcases at least 2 dragons. How would you go about building a habitat
-  that keeps the dragons safe and healthy as well as keeps the customers alive? Please explain each step of your design 
-  and how it helps accomplish your two goals.
--When looking to house dangerous creatures (please don't intult dragons by calling them animals) such as dragons one
-  must keep serveral things in mind. Things like the type of dragon being housed, the current size of the dragon, the
-  size the dragon will be fully grown, who is to be the dragons handler (usually the dragon's choice, just a heads up),
-  and how well the two dragons get along just to name a few. Now depending on which type of lore you follow dragons come
-  in two flavors. One is very close to a primal creature of destruction that don't do anything besides burn, eat, and
-  repeat. The other is a venerable creature of immense power. Another factor in how the dragons would be housed is magic.
-  The type of magic available will drastically change the different ways to house the dragons. For this scenario I would
-  like to leave that topic alone for now. So now that a good number of factors have been mentioned I'll now explain the
-  process I would take to building a safe zoo habitat for these dragons.
-  First-Meet the dragons that are to be living at the zoo. Preferabley siblings as mature dragons that are both siblings
-  and still alive have a theorhetically higher chance to get along than two dragons of the same type who are complete
-  strangers to one another. Why don't you get two dragons of different types? I'd rather have people get bored that our
-  zoo supports two of the same dragons type rather than risk any sort of hostility between the dragons by forcing such
-  a close proximity to a complete stranger. So I simpley wouldn't have two dragons of different types. Also during this
-  time meeting the dragon's handler or making arrangements with the dragon to have a primary liaison would be very
-  important to do. As the dragon's happiness is crucial to the zoo's success, ensuring that both dragon and handler
-  (liaison, whatever you want to call them) are both in agreement and are going to stay in agreement ensures the
-  potential success for the zoo.
-  Two-Determine a type of environment that suits the dragon. Easiest way to do that would be to just ask them. Even
-  though the type of environment the dragon would prefer is usually going to be sterotypical to their type (fire dragons
-  liking warm places, ice dragons liking cold places, etc.), I would rather avoid making it apparent how rude I can be by
-  making an assumption about either of the dragons.
-  Three-Find a place to build the habitat. Locations that pop to mind include New Zealand, Alaska, China, and Africa.
-  Somewhere with alot of room available and a climate that the dragon would prefer. Take bids on the contract work to
-  have the design built blah blah blah. Build a place to make the dragon happeh.
-  Four-Test the dragon's strength. Now this is one of the trickiest things to do without upsetting the dragon, as i bet 
-  the handler would understannd a bit at least. Determine the type of breath weapon the dragon has and ask to see the
-  full extent of what the breath weapon can do. Then find and develop a way to defend against it. Either with advanced
-  technology, magic, dragon scale cloaks for the use of each of the patrons, or something as simple as a a four foot 
-  thick bulletproof glass. Whatever it takes to have at least one defense against the dragon.
-  Five-Have a way to kill the dragon. As horrible as killing a dragon sounds to me having a solid defense as well as a
-  solid offence a vital key to keeping creatures in a zoo. Weather it be fire-arms, missiles, ray gun, seven sages that
-  need 3 hours to prepare a meteor spell, or a nerf-gun, whatever would bring the dragon down. (who knows what
-  allergies the dragon might have?)
-  Summary-The only reason we now keep any sort of animal in a zoo is because we can. There are alot of people who will 
-  claim that they do some humanitarian work in teh zoo by taking care of animals that are sick or injured which is also 
-  accurate. In the end however, the only reason we dare keep animals dangerously close is because we have the power to 
-  not only kill but to capture and force them into submision. Until I personally have the power to do this myself I
-  would not feel comfortable enough to take on the responsibility of caging not only one, but two dragons.
+3.You have just been asked to create a zoo which showcases at least 2 dragons. How would you go about building a habitat that keeps the dragons safe and healthy as well as keeps the customers alive? Please explain each step of your design and how it helps accomplish your two goals.
+-When looking to house dangerous creatures (please don't intult dragons by calling them animals) such as dragons one must keep serveral things in mind. Things like the type of dragon being housed, the current size of the dragon, the size the dragon will be fully grown, who is to be the dragons handler (usually the dragon's choice, just a heads up), and how well the two dragons get along just to name a few. Now depending on which type of lore you follow dragons come in two flavors. One is very close to a primal creature of destruction that don't do anything besides burn, eat, and repeat. The other is a venerable creature of immense power. Another factor in how the dragons would be housed is magic. The type of magic available will drastically change the different ways to house the dragons. For this scenario I would like to leave that topic alone for now. So now that a good number of factors have been mentioned I'll now explain the process I would take to building a safe zoo habitat for these dragons.
+  First-Meet the dragons that are to be living at the zoo. Preferabley siblings as mature dragons that are both siblings and still alive have a theorhetically higher chance to get along than two dragons of the same type who are complete strangers to one another. Why don't you get two dragons of different types? I'd rather have people get bored that our zoo supports two of the same dragons type rather than risk any sort of hostility between the dragons by forcing such a close proximity to a complete stranger. So I simpley wouldn't have two dragons of different types. Also during this time meeting the dragon's handler or making arrangements with the dragon to have a primary liaison would be very important to do. As the dragon's happiness is crucial to the zoo's success, ensuring that both dragon and handler (liaison, whatever you want to call them) are both in agreement and are going to stay in agreement ensures the potential success for the zoo.
+  Two-Determine a type of environment that suits the dragon. Easiest way to do that would be to just ask them. Even though the type of environment the dragon would prefer is usually going to be sterotypical to their type (fire dragons liking warm places, ice dragons liking cold places, etc.), I would rather avoid making it apparent how rude I can be by making an assumption about either of the dragons.
+  Three-Find a place to build the habitat. Locations that pop to mind include New Zealand, Alaska, China, and Africa. Somewhere with alot of room available and a climate that the dragon would prefer. Take bids on the contract work to have the design built blah blah blah. Build a place to make the dragon happeh.
+  Four-Test the dragon's strength. Now this is one of the trickiest things to do without upsetting the dragon, as i bet the handler would understannd a bit at least. Determine the type of breath weapon the dragon has and ask to see the full extent of what the breath weapon can do. Then find and develop a way to defend against it. Either with advanced technology, magic, dragon scale cloaks for the use of each of the patrons, or something as simple as a a four foot thick bulletproof glass. Whatever it takes to have at least one defense against the dragon.
+  Five-Have a way to kill the dragon. As horrible as killing a dragon sounds to me having a solid defense as well as a solid offence a vital key to keeping creatures in a zoo. Weather it be fire-arms, missiles, ray gun, seven sages that need 3 hours to prepare a meteor spell, or a nerf-gun, whatever would bring the dragon down. (who knows what allergies the dragon might have?)
+  Summary-The only reason we now keep any sort of animal in a zoo is because we can. There are alot of people who will claim that they do some humanitarian work in teh zoo by taking care of animals that are sick or injured which is also accurate. In the end however, the only reason we dare keep animals dangerously close is because we have the power to not only kill but to capture and force them into submision. Until I personally have the power to do this myself I would not feel comfortable enough to take on the responsibility of caging not only one, but two dragons.
 
-4.Describe what excites you about Zappos and more specifically Zappos.Code(). BONUS: Submit a video (less than 5 minutes)
-  answering.
--Not quite sure how to answer this without sounding about a fifth of my age. So I apologize in advance for the following.
-  Part of my application is to answer questions about zombies, ninjas, and dragons?! *head explodes*. I am an avid
-  gamer. As I've been told before however I am a complete noob (novice for non-gamers reading this) when it comes to
-  the technicalities of any sort of programing. This is a chance to learn even more about something I absolutely love.
-  Video games have gone into a direction where a vast majority of them have become an MMO (Massive Multi-player Online)
-  where you are not only competing against different aspects of the game but against either another players top score
-  or even opposing players directly. In order to keep track of... pretty much any little piece of information a player
-  might want, people have been starting up websites to show these statistics. I am no exception. I WANT ONE! I want to
-  be able to do it. This opportunity is a paid position with a major company that will teach me what I need to know to 
-  understand the how it works even if I don't get told exactly what to do. How could I not be super excited about this 
-  chance?! Not only that but to be able to use the skills I'm going to learn for a more permanent position at the 
-  company is amazing. That is Zappos building an employee from the ground up. My highest hopes would be to do so amazing
-  and pick up coding so fast that I'd either earn or obtain the experience and skills needed to apply for a more 
-  permanent position at Zappos. So quick summary since there's a whole lot of ranting going on (that I already
-  apologized for, see line 63). Excited about the chance to work for a solid company that has an amazing environment
-  that is amazing and social. Super excited for the chance to learn something about programing and computers that I
-  can use in both a professional and playful environment.
+4.Describe what excites you about Zappos and more specifically Zappos.Code(). BONUS: Submit a video (less than 5 minutes) answering.
+-Not quite sure how to answer this without sounding about a fifth of my age. So I apologize in advance the following. 
+  Part of my application is to answer questions about zombies, ninjas, and dragons?! *head explodes*. I am an avid gamer. As I've been told before however I am a complete noob (novice for non-gamers reading this) when it comes to the technicalities of any sort of programing. This is a chance to learn even more about something I absolutely love. Video games have gone into a direction where a vast majority of them have become an MMO (Massive Multi-player Online) where you are not only competing against different aspects of the game but against either another players top score or even opposing players directly. In order to keep track of... pretty much any little piece of information a player might want, people have been starting up websites to show these statistics. I am no exception. I WANT ONE! I want to be able to do it. This opportunity is a paid position with a major company that will teach me what I need to know to understand the how it works even if I don't get told exactly what to do. How could I not be super excited about this chance?! Not only that but to be able to use the skills I'm going to learn for a more permanent position at the company is amazing. That is Zappos building an employee from the ground up. My highest hopes would be to do so amazing and pick up coding so fast that I'd either earn or obtain the experience and skills needed to apply for a more permanent position at Zappos. So quick summary since there's a whole lot of ranting going on (that I already apologized for). Excited about the chance to work for a solid company that has an amazing environment that is amazing and social. Super excited for the chance to learn something about programing and computers that I can use in both a professional and playful environment.
 
 ~Branden Bean
